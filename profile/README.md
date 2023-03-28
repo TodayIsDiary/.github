@@ -81,8 +81,10 @@
 
 ### [FRONTEND](https://github.com/TodayIsDiary/TD-Front-End)
 
-- CSS
-- JavaScript
+- React
+- Typescript
+- Axios
+- Styled-Components
 
 ### [BACKEND](https://github.com/TodayIsDiary/TD-server)
 
